@@ -24,8 +24,8 @@ export function GoogleLoginButton(props) {
   // Failure handling for google login stop
   // Login handling for google login start
   const handleLogin = async (googleData) => {
-    var url = "https://gearonthego-52bc9f57a8cd.herokuapp.com/api/register-google";
-    if (props.redirectOnLogin) url = "https://gearonthego-52bc9f57a8cd.herokuapp.com/api/login-google";
+    var url = "https://gear-on-the-go-cd52acec7ae4.herokuapp.com//api/register-google";
+    if (props.redirectOnLogin) url = "https://gear-on-the-go-cd52acec7ae4.herokuapp.com//api/login-google";
 
     const res = await fetch(url, {
       method: "POST",

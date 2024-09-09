@@ -2,7 +2,7 @@
   "name": "react-frontend",
   "version": "0.1.0",
   "private": true,
-  "proxy": "https://gearonthego-52bc9f57a8cd.herokuapp.com/",
+  "proxy": "https://gear-on-the-go-cd52acec7ae4.herokuapp.com//",
   "dependencies": {
     "@mui/material": "^5.14.11",
     "@react-oauth/google": "^0.11.1",
@@ -18,7 +18,7 @@
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.16.0",
     "react-router-hash-link": "^2.4.3",
-    "react-scripts": "^3.0.1",
+    "react-scripts": "^3.4.4",
     "react-slider": "^2.0.6",
     "web-vitals": "^2.1.4"
   },
