@@ -22,7 +22,7 @@ Our project is a recreational equipment rental service web application. Our visi
 
 **Deployment:**
 
-[GearOnTheGo.com](https://gearonthego-52bc9f57a8cd.herokuapp.com/#/)
+[GearOnTheGo.com](https://gear-on-the-go-cd52acec7ae4.herokuapp.com//#/)
 
 ****
 

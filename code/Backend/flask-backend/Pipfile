@@ -23,6 +23,9 @@ by = "*"
 selenium = "*"
 werkzeug = "*"
 email-validator = "*"
+"google-auth" = "*"
+jwt = "*"
+google-auth = "*"
 
 [dev-packages]
 
